@@ -1,2 +1,11 @@
 Hello!
+<<<<<<< HEAD
 Heyo :)
+=======
+<<<<<<< HEAD
+Hi again :)
+=======
+
+In addition, Double Hello! 
+>>>>>>> 9a94993d1837da8b765a83298b9f59cb6a1fb423
+>>>>>>> 2d2d128b829086d02c44c7354c5d3f091509ab03
